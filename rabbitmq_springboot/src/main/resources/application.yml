@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: mq
+  rabbitmq:
+    host: 192.168.16.117
+    port: 5672
+    username: ems
+    password: ems
+    virtual-host: /ems
