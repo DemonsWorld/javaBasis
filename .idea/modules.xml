@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaMutiThread/JavaMutiThread.iml" filepath="$PROJECT_DIR$/JavaMutiThread/JavaMutiThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadTest/ThreadTest.iml" filepath="$PROJECT_DIR$/ThreadTest/ThreadTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8new/java8new.iml" filepath="$PROJECT_DIR$/java8new/java8new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasis.iml" filepath="$PROJECT_DIR$/javaBasis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/origin_amqp/origin_amqp.iml" filepath="$PROJECT_DIR$/origin_amqp/origin_amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq_springboot/rabbitmq_springboot.iml" filepath="$PROJECT_DIR$/rabbitmq_springboot/rabbitmq_springboot.iml" />
+    </modules>
+  </component>
+</project>

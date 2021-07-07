@@ -1,0 +1,3 @@
+# Project exclude paths
+/origin_amqp/target/
+/rabbitmq_springboot/target/

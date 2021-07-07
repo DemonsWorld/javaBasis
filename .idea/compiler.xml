@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="java8new" />
+        <module name="rabbitmq_springboot" />
+        <module name="origin_amqp" />
+        <module name="java8" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java8" target="1.8" />
+      <module name="java8new" target="8" />
+      <module name="javaBasis" target="1.8" />
+      <module name="origin_amqp" target="1.7" />
+      <module name="rabbitmq_springboot" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="java8" options="-parameters" />
+      <module name="java8new" options="" />
+      <module name="javaBasis" options="-parameters" />
+      <module name="origin_amqp" options="-parameters" />
+      <module name="rabbitmq_springboot" options="-parameters" />
+    </option>
+  </component>
+</project>

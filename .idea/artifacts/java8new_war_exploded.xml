@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="java8new:war exploded">
+    <output-path>$PROJECT_DIR$/java8new/target/java8new</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>java8new</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="java8new" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/java8new/target/java8new/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="java8new/web/Web" />
+    </root>
+  </artifact>
+</component>

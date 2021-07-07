@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>origin_amqp</module>
+        <module>java8new</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
